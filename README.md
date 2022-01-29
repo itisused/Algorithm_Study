@@ -15,6 +15,10 @@
 | |문제 제목|분류|날짜|비고|
 |:--:|--|--|:--:|--|
 |백준|[문자열][아스키 코드](https://www.acmicpc.net/problem/11654)|구현|2022-01-20||
-|^^|[문자열][숫자의 합](https://www.acmicpc.net/problem/11720)||2022-01-22||
-|^^|[문자열][알파벳 찾기](https://www.acmicpc.net/problem/10809)|구현|2022-01-21||
-|^^|[문자열][문자열 반복](https://www.acmicpc.net/problem//2675)|구현|2022-01-21||
+||[문자열][숫자의 합](https://www.acmicpc.net/problem/11720)||2022-01-22||
+||[문자열][알파벳 찾기](https://www.acmicpc.net/problem/10809)|구현|2022-01-21||
+||[문자열][문자열 반복](https://www.acmicpc.net/problem/2675)|구현|2022-01-21||
+||[문자열][단어의 개수](https://www.acmicpc.net/problem/1152)|구현|2022-01-21||
+||[문자열][상수](https://www.acmicpc.net/problem/2908)|구현|2022-01-21||
+||[기본 수학1][손익분기점](https://www.acmicpc.net/problem/1712)||2022-01-21||
+|프로그래머스|[고득점 Kit][기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|스택|2-22-01-19||
