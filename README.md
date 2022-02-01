@@ -4,6 +4,7 @@
 ## Code
 - 알고리즘 공부를 위해 풀었던 문제들에 대한 코드
 - [Baekjoon](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/), [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+- 실행 환경: Google Colab
 
 ## Issues
 - 온라인 코딩테스트 대비 알고리즘 스터디 진행
@@ -36,20 +37,20 @@
 |단계-<br>[최단경로](https://www.acmicpc.net/step/26)|다익스트라<br>그래프|[최단경로](https://www.acmicpc.net/problem/1753)|[2021-12-21](이것이_취업을_위한_코딩테스트다_with_Python/07_Shortest_Path_20211213.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/9)|
 |-|플로이드워셜<br>그래프|[플로이드](https://www.acmicpc.net/problem/11404)|[2021-12-28](이것이_취업을_위한_코딩테스트다_with_Python/07_Shortest_Path_20211213.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/9)|
 |-|플로이드워셜<br>그래프|[운동](https://www.acmicpc.net/problem/1956)|[-](이것이_취업을_위한_코딩테스트다_with_Python/07_Shortest_Path_20211213.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/9) <br> **미해결**|
-||그리디|[뒤집기](https://www.acmicpc.net/problem/1439)|[2021-10-12](이것이_취업을_위한_코딩테스트다_with_Python/01_Greedy_20211010.ipynb)|[참고](https://github.com/itisused/Algorithm_Study/issues/2)|
-||그리디|[펭귄추락<br>대책위원회](https://www.acmicpc.net/problem/18228)|[2021-10-10](이것이_취업을_위한_코딩테스트다_with_Python/01_Greedy_20211010.ipynb)|[참고](https://github.com/itisused/Algorithm_Study/issues/2)|
-||BFS<br>다익스트라|[특정 거리의<br>도시 찾기](https://www.acmicpc.net/problem/18352)|[-](이것이_취업을_위한_코딩테스트다_with_Python/03_DFS%20BFS_20211018.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/4) <br> **다시**|
-||정렬|[국영수](https://www.acmicpc.net/problem/10825)|[2021-11-23](이것이_취업을_위한_코딩테스트다_with_Python/04_Sorting_20211123.ipynb)|[참고](https://github.com/itisused/Algorithm_Study/issues/6)|
-||정렬<br>그리디|[안테나](https://www.acmicpc.net/problem/18310)|[-](이것이_취업을_위한_코딩테스트다_with_Python/04_Sorting_20211123.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/6) <br> **미해결**|
-||다이나믹<br>프로그래밍|[정수삼각형](https://www.acmicpc.net/problem/1932)|[-](이것이_취업을_위한_코딩테스트다_with_Python/06_Dynamic_Programming_20211202.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/8) <br> **미해결**|
-||다이나믹<br>프로그래밍|[병사<br>배치하기](https://www.acmicpc.net/problem/18353)|[-](이것이_취업을_위한_코딩테스트다_with_Python/06_Dynamic_Programming_20211202.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/8) <br> **미해결**|
+|분류-<br>[그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)|그리디|[뒤집기](https://www.acmicpc.net/problem/1439)|[2021-10-12](이것이_취업을_위한_코딩테스트다_with_Python/01_Greedy_20211010.ipynb)|[참고](https://github.com/itisused/Algorithm_Study/issues/2)|
+|-|그리디|[펭귄추락<br>대책위원회](https://www.acmicpc.net/problem/18228)|[2021-10-10](이것이_취업을_위한_코딩테스트다_with_Python/01_Greedy_20211010.ipynb)|[참고](https://github.com/itisused/Algorithm_Study/issues/2)|
+|-|그리디<br>재귀|[숫자 만들기](https://www.acmicpc.net/problem/1511)|[-](Baekjoon/Category_Greedy.ipynb)|**미해결**|
+|분류-<br>[BFS](https://www.acmicpc.net/problemset?sort=ac_desc&algo=126)|BFS<br>다익스트라|[특정 거리의<br>도시 찾기](https://www.acmicpc.net/problem/18352)|[-](이것이_취업을_위한_코딩테스트다_with_Python/03_DFS%20BFS_20211018.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/4) <br> **다시**|
+|분류-<br>[정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)|정렬|[국영수](https://www.acmicpc.net/problem/10825)|[2021-11-23](이것이_취업을_위한_코딩테스트다_with_Python/04_Sorting_20211123.ipynb)|[참고](https://github.com/itisused/Algorithm_Study/issues/6)|
+|-|정렬<br>그리디|[안테나](https://www.acmicpc.net/problem/18310)|[-](이것이_취업을_위한_코딩테스트다_with_Python/04_Sorting_20211123.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/6) <br> **미해결**|
+|분류-<br>[DP](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)|다이나믹<br>프로그래밍|[정수삼각형](https://www.acmicpc.net/problem/1932)|[-](이것이_취업을_위한_코딩테스트다_with_Python/06_Dynamic_Programming_20211202.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/8) <br> **미해결**|
+|-|다이나믹<br>프로그래밍|[병사<br>배치하기](https://www.acmicpc.net/problem/18353)|[-](이것이_취업을_위한_코딩테스트다_with_Python/06_Dynamic_Programming_20211202.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/8) <br> **미해결**|
 |문제집-<br>삼성기출|다이나믹<br>브루트포스|[퇴사](https://www.acmicpc.net/problem/14501)|[-](이것이_취업을_위한_코딩테스트다_with_Python/06_Dynamic_Programming_20211202.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/8) <br> **미해결**|
-||브루트포스|[차이를<br>최대로](https://www.acmicpc.net/problem/10819)||**미해결**|
-||그리디<br>재귀|[숫자 만들기](https://www.acmicpc.net/problem/1511)|[-](Baekjoon/Category_Greedy_1511.ipynb)|**미해결**
+|분류-<br>[브루트포스](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)|브루트포스|[차이를<br>최대로](https://www.acmicpc.net/problem/10819)||**미해결**|
 
 ---
 
-2) Programmers
+1) Programmers
 
 |구분|알고리즘 <br> 분류|문제 제목|날짜|비고 <br> (답 참고?)|
 |--|--|--|--|--|
@@ -86,7 +87,7 @@
 |--|--|--|--|--|
 |Softeer|[인증평가(3차) 기출]<br>[플레이페어 암호](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=804)||[2021-12-21](etc.(Goorm,%20Softeer)/Softeer.ipynb)||
 Goorm|[숫자만들기](https://level.goorm.io/exam/43183/%EC%88%AB%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0/quiz/1)||[-](etc.(Goorm,%20Softeer)/Goorm.ipynb)|미해결|
-|-|[World Wide Web](https://level.goorm.io/exam/43194/world-wide-web/quiz/1)|최단경로<br>다익스트라|[2022-01-11](etc.(Goorm,%20Softeer)/Goorm.ipynb)||
+|-|[World Wide Web](https://level.goorm.io/exam/43194/world-wide-web/quiz/1)|다익스트라|[2022-01-11](etc.(Goorm,%20Softeer)/Goorm.ipynb)||
 
 
 
