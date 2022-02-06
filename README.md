@@ -27,6 +27,9 @@
 |-|구현|[다이얼](https://www.acmicpc.net/problem/5622)|[-](Baekjoon/Step_07_String.ipynb)|**미해결**|
 |-|구현|[크로아티아<br>알파벳](https://www.acmicpc.net/problem/2941)|[-](Baekjoon/Step_07_String.ipynb)|**미해결**|
 |단계-<br>[기본 수학1](https://www.acmicpc.net/step/8)||[손익분기점](https://www.acmicpc.net/problem/1712)|[2022-01-21](Baekjoon/Step_08_Basic_Math1.ipynb)||
+|-||[벌집](https://www.acmicpc.net/problem/2292)|[2022-02-06](Baekjoon/Step_08_Basic_Math1.ipynb)||
+|-|구현|[분수 찾기](https://www.acmicpc.net/problem/1193)|[2022-02-06](Baekjoon/Step_08_Basic_Math1.ipynb)||
+|-|구현|[달팽이는 올<br>라가고 싶다](https://www.acmicpc.net/problem/2869)|[2022-02-06](Baekjoon/Step_08_Basic_Math1.ipynb)||
 |단계-<br>[정렬](https://www.acmicpc.net/step/9)|정렬|[소트<br>인사이트](https://www.acmicpc.net/problem/1427)|[2021-10-10](Baekjoon/Step_12_Sort.ipynb)||
 |단계-<br>[이분 탐색](https://www.acmicpc.net/step/29)|이진 탐색|[수 찾기](https://www.acmicpc.net/problem/1920)|[2021-11-30](이것이_취업을_위한_코딩테스트다_with_Python/05_Binary_Search_20211125.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/7)|
 |-|정렬<br>이진 탐색|[숫자 카드2](https://www.acmicpc.net/problem/10816)|[2021-11-30](이것이_취업을_위한_코딩테스트다_with_Python/05_Binary_Search_20211125.ipynb)|[-](https://github.com/itisused/Algorithm_Study/issues/7)|
@@ -78,6 +81,9 @@
 |Course|세부|문제 제목|날짜|비고 <br> (답 참고?)|
 |--|--|--|--|--|
 |[Intermediate](https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6)|파이썬 SW문제해결 기본<br>[List1](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg#)|min max|[2022-01-24](SW_Expert_Academy/01_(intermediate)_List1.ipynb)|
+|-|-|전기버스|[-](SW_Expert_Academy/01_(intermediate)_List1.ipynb)|
+|-|-|숫자 카드|[2022-02-05](SW_Expert_Academy/01_(intermediate)_List1.ipynb)|
+|-|-|구간합|[2022-02-05](SW_Expert_Academy/01_(intermediate)_List1.ipynb)|
 
 ---
 
