@@ -55,24 +55,31 @@
 
 1) Programmers
 
-|구분|알고리즘 <br> 분류|문제 제목|날짜|비고 <br> (답 참고?)|
-|--|--|--|--|--|
-|2022 Kakao<br>Blind||[신고 결과<br>받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[2021-09-11](Programmers/2022_Kakao_Blind.ipynb)|**다시**|
-|-||[k 진수에서<br>소수의 개수<br>구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|[2021-09-11](Programmers/2022_Kakao_Blind.ipynb)|**다시**|
-|2021 Kakao<br>Blind||[신규 아이디<br>추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|
-|2020 Kakao<br>Blind|구현|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[2021-09-??<br>2021-10-17](이것이_취업을_위한_코딩테스트다_with_Python/02_Implementation_20211013.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/3) <br> **다시**|
-|-|구현|[자물쇠와<br>열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[2021-10-17](이것이_취업을_위한_코딩테스트다_with_Python/02_Implementation_20211013.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/3) <br> **다시**|
-|-|DFS/BFS|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[2021-10-17](이것이_취업을_위한_코딩테스트다_with_Python/03_DFS%20BFS_20211018.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/4) <br> **다시**|
-|2019 Kakao<br>Blind|정렬|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[2021-11-24](이것이_취업을_위한_코딩테스트다_with_Python/04_Sorting_20211123.ipynb)|[책 참고](https://github.com/itisused/Algorithm_Study/issues/6) <br> **다시**|
-|위클리<br>챌린지||[부족한 금액<br>계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[2021-08-0?](Programmers/Weekely_Challenge.ipynb)|Week 1|
-|-||?|[-](Programmers/Weekely_Challenge.ipynb)|Week 2 <br> **미해결**|
-|-||직업군<br>추천하기|[2021-08-26](Programming_Test/../../Programming_Test/20210320_LINE/01_직업군_추천하기.ipynb)|Week 4 <br> **다시**|
-|-||[모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|-|Week5 <br> **미해결**|
-|고득점 Kit<br>[스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081)|스택|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[2022-01-19](Programmers/Kit-Stack&Queue.ipynb)||
-|고득점 Kit<br>[정렬](https://programmers.co.kr/learn/courses/30/parts/12198)|정렬|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[2021-??-??](Programmers/Kit-Sort.ipynb)||
-|고득점 Kit<br>[그리디](https://programmers.co.kr/learn/courses/30/parts/12244)|그리디|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[2021-11-13](Programmers/Kit-Greedy.ipynb)||
-|-|그리디|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[-](Programmers/Kit-Greedy.ipynb)|**미해결**|
-|-|그리디|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[-](Programmers/Kit-Greedy.ipynb)|**미해결**|
+|구분|알고리즘 <br> 분류|문제 제목|날짜|난이도|비고 <br> (답 참고?)|
+|--|--|--|--|:--:|--|
+|2022 Kakao<br>Blind||[신고 결과<br>받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[2021-09-11](Programmers/2022_Kakao_Blind.ipynb)|Lv.1|**다시**|
+|-||[k 진수에서<br>소수의 개수<br>구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|[2021-09-11](Programmers/2022_Kakao_Blind.ipynb)|Lv.2|**다시**|
+|2021 Kakao<br>Blind|구현|[신규 아이디<br>추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[2022-03-09](Programmers/2021_Kakao_Blind.ipynb)|Lv.1||
+|2020 Kakao<br>Blind|구현|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[2021-09-??<br>2021-10-17](이것이_취업을_위한_코딩테스트다_with_Python/02_Implementation_20211013.ipynb)|Lv.2|[책 참고](https://github.com/itisused/Algorithm_Study/issues/3) <br> **다시**|
+|-|구현|[자물쇠와<br>열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[2021-10-17](이것이_취업을_위한_코딩테스트다_with_Python/02_Implementation_20211013.ipynb)|Lv.3|[책 참고](https://github.com/itisused/Algorithm_Study/issues/3) <br> **다시**|
+|-|DFS/BFS|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[2021-10-17](이것이_취업을_위한_코딩테스트다_with_Python/03_DFS%20BFS_20211018.ipynb)|Lv.2|[책 참고](https://github.com/itisused/Algorithm_Study/issues/4) <br> **다시**|
+|2019 Kakao<br>Blind|정렬|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[2021-11-24](이것이_취업을_위한_코딩테스트다_with_Python/04_Sorting_20211123.ipynb)|Lv.1|[책 참고](https://github.com/itisused/Algorithm_Study/issues/6) <br> **다시**|
+|2021 Dev-<br>Matching|구현|[로또의<br>최고 순위와<br>최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[2022-03-09](Programmers/2021_Dev_Matching(Web).ipynb)|Lv.1||
+|2021 Kakao<br>Intern|구현|[숫자 문자열과<br>영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[2022-03-09](Programmers/2021_Kakao_Intern.ipynb)|Lv.1||
+|2020 Kakao<br>Intern|구현|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[2022-03-10](Programmers/2020_Kakao_Intern.ipynb)|Lv.1||
+|2019 Kakao<br>Intern|구현|[크레인<br>인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[2022-03-10](Programmers/2019_Kakao_Intern.ipynb)|Lv.1||
+|위클리<br>챌린지||[부족한 금액<br>계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[2021-08-0?](Programmers/Weekely_Challenge.ipynb)|Lv.1|Week 1|
+|-||?|[-](Programmers/Weekely_Challenge.ipynb)|Lv.?|Week 2 <br> **미해결**|
+|-||직업군<br>추천하기|[2021-08-26](Programming_Test/../../Programming_Test/20210320_LINE/01_직업군_추천하기.ipynb)|Lv.?|Week 4 <br> **다시**|
+|-||[모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|-|Lv.2|Week5 <br> **미해결**|
+|월간 코드<br>챌린지 시즌3||[없는 숫자<br>더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[2022-03-11](Programmers/Monthly_Cahllenge3.ipynb)|Lv.1||
+|월간 코드<br>챌린지 시즌2||[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[2022-03-11](Programmers/Monthly_Cahllenge2.ipynb)|Lv.1||
+|월간 코드<br>챌린지 시즌1||[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[2022-03-11](Programmers/Monthly_Cahllenge1.ipynb)|Lv.1||
+|고득점 Kit<br>[스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081)|스택|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[2022-01-19](Programmers/Kit-Stack&Queue.ipynb)|Lv.2||
+|고득점 Kit<br>[정렬](https://programmers.co.kr/learn/courses/30/parts/12198)|정렬|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[2021-??-??](Programmers/Kit-Sort.ipynb)|Lv.1||
+|고득점 Kit<br>[그리디](https://programmers.co.kr/learn/courses/30/parts/12244)|그리디|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[2021-11-13](Programmers/Kit-Greedy.ipynb)|Lv.1||
+|-|그리디|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[-](Programmers/Kit-Greedy.ipynb)|Lv.2|**미해결**|
+|-|그리디|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[-](Programmers/Kit-Greedy.ipynb)|Lv.2|**미해결**|
 
 ---
 
